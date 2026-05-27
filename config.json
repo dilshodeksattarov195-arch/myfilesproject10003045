@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvave",
+        "uuid": 9667875,
+        "checksum": "f2k7yi"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
